@@ -1,0 +1,476 @@
+[
+  {
+    "Stardust": 200, 
+    "level": 1.0, 
+    "maxcp": 28.92, 
+    "mincp": 24.32
+  }, 
+  {
+    "Stardust": 200, 
+    "level": 1.5, 
+    "maxcp": 59.76, 
+    "mincp": 50.26
+  }, 
+  {
+    "Stardust": 200, 
+    "level": 2.0, 
+    "maxcp": 90.61, 
+    "mincp": 76.2
+  }, 
+  {
+    "Stardust": 200, 
+    "level": 2.5, 
+    "maxcp": 121.46, 
+    "mincp": 102.14
+  }, 
+  {
+    "Stardust": 400, 
+    "level": 3.0, 
+    "maxcp": 152.3, 
+    "mincp": 128.08
+  }, 
+  {
+    "Stardust": 400, 
+    "level": 3.5, 
+    "maxcp": 183.15, 
+    "mincp": 154.02
+  }, 
+  {
+    "Stardust": 400, 
+    "level": 4.0, 
+    "maxcp": 214.0, 
+    "mincp": 179.96
+  }, 
+  {
+    "Stardust": 400, 
+    "level": 4.5, 
+    "maxcp": 244.85, 
+    "mincp": 205.9
+  }, 
+  {
+    "Stardust": 600, 
+    "level": 5.0, 
+    "maxcp": 275.69, 
+    "mincp": 231.84
+  }, 
+  {
+    "Stardust": 600, 
+    "level": 5.5, 
+    "maxcp": 306.54, 
+    "mincp": 257.78
+  }, 
+  {
+    "Stardust": 600, 
+    "level": 6.0, 
+    "maxcp": 337.39, 
+    "mincp": 283.72
+  }, 
+  {
+    "Stardust": 600, 
+    "level": 6.5, 
+    "maxcp": 368.23, 
+    "mincp": 309.66
+  }, 
+  {
+    "Stardust": 800, 
+    "level": 7.0, 
+    "maxcp": 399.08, 
+    "mincp": 335.61
+  }, 
+  {
+    "Stardust": 800, 
+    "level": 7.5, 
+    "maxcp": 429.93, 
+    "mincp": 361.55
+  }, 
+  {
+    "Stardust": 800, 
+    "level": 8.0, 
+    "maxcp": 460.77, 
+    "mincp": 387.49
+  }, 
+  {
+    "Stardust": 800, 
+    "level": 8.5, 
+    "maxcp": 491.62, 
+    "mincp": 413.43
+  }, 
+  {
+    "Stardust": 1000, 
+    "level": 9.0, 
+    "maxcp": 522.47, 
+    "mincp": 439.37
+  }, 
+  {
+    "Stardust": 1000, 
+    "level": 9.5, 
+    "maxcp": 553.32, 
+    "mincp": 465.31
+  }, 
+  {
+    "Stardust": 1000, 
+    "level": 10.0, 
+    "maxcp": 584.16, 
+    "mincp": 491.25
+  }, 
+  {
+    "Stardust": 1000, 
+    "level": 10.5, 
+    "maxcp": 613.35, 
+    "mincp": 515.79
+  }, 
+  {
+    "Stardust": 1300, 
+    "level": 11.0, 
+    "maxcp": 642.54, 
+    "mincp": 540.34
+  }, 
+  {
+    "Stardust": 1300, 
+    "level": 11.5, 
+    "maxcp": 671.72, 
+    "mincp": 564.89
+  }, 
+  {
+    "Stardust": 1300, 
+    "level": 12.0, 
+    "maxcp": 700.91, 
+    "mincp": 589.43
+  }, 
+  {
+    "Stardust": 1300, 
+    "level": 12.5, 
+    "maxcp": 730.1, 
+    "mincp": 613.98
+  }, 
+  {
+    "Stardust": 1600, 
+    "level": 13.0, 
+    "maxcp": 759.29, 
+    "mincp": 638.52
+  }, 
+  {
+    "Stardust": 1600, 
+    "level": 13.5, 
+    "maxcp": 788.47, 
+    "mincp": 663.07
+  }, 
+  {
+    "Stardust": 1600, 
+    "level": 14.0, 
+    "maxcp": 817.66, 
+    "mincp": 687.61
+  }, 
+  {
+    "Stardust": 1600, 
+    "level": 14.5, 
+    "maxcp": 846.85, 
+    "mincp": 712.16
+  }, 
+  {
+    "Stardust": 1900, 
+    "level": 15.0, 
+    "maxcp": 876.04, 
+    "mincp": 736.7
+  }, 
+  {
+    "Stardust": 1900, 
+    "level": 15.5, 
+    "maxcp": 905.22, 
+    "mincp": 761.25
+  }, 
+  {
+    "Stardust": 1900, 
+    "level": 16.0, 
+    "maxcp": 934.41, 
+    "mincp": 785.79
+  }, 
+  {
+    "Stardust": 1900, 
+    "level": 16.5, 
+    "maxcp": 963.6, 
+    "mincp": 810.34
+  }, 
+  {
+    "Stardust": 2200, 
+    "level": 17.0, 
+    "maxcp": 992.79, 
+    "mincp": 834.88
+  }, 
+  {
+    "Stardust": 2200, 
+    "level": 17.5, 
+    "maxcp": 1021.97, 
+    "mincp": 859.43
+  }, 
+  {
+    "Stardust": 2200, 
+    "level": 18.0, 
+    "maxcp": 1051.16, 
+    "mincp": 883.97
+  }, 
+  {
+    "Stardust": 2200, 
+    "level": 18.5, 
+    "maxcp": 1080.35, 
+    "mincp": 908.52
+  }, 
+  {
+    "Stardust": 2500, 
+    "level": 19.0, 
+    "maxcp": 1109.54, 
+    "mincp": 933.06
+  }, 
+  {
+    "Stardust": 2500, 
+    "level": 19.5, 
+    "maxcp": 1138.72, 
+    "mincp": 957.61
+  }, 
+  {
+    "Stardust": 2500, 
+    "level": 20.0, 
+    "maxcp": 1167.91, 
+    "mincp": 982.15
+  }, 
+  {
+    "Stardust": 2500, 
+    "level": 20.5, 
+    "maxcp": 1197.1, 
+    "mincp": 1006.7
+  }, 
+  {
+    "Stardust": 3000, 
+    "level": 21.0, 
+    "maxcp": 1226.33, 
+    "mincp": 1031.28
+  }, 
+  {
+    "Stardust": 3000, 
+    "level": 21.5, 
+    "maxcp": 1255.51, 
+    "mincp": 1055.82
+  }, 
+  {
+    "Stardust": 3000, 
+    "level": 22.0, 
+    "maxcp": 1284.74, 
+    "mincp": 1080.4
+  }, 
+  {
+    "Stardust": 3000, 
+    "level": 22.5, 
+    "maxcp": 1313.93, 
+    "mincp": 1104.94
+  }, 
+  {
+    "Stardust": 3500, 
+    "level": 23.0, 
+    "maxcp": 1343.15, 
+    "mincp": 1129.52
+  }, 
+  {
+    "Stardust": 3500, 
+    "level": 23.5, 
+    "maxcp": 1372.34, 
+    "mincp": 1154.07
+  }, 
+  {
+    "Stardust": 3500, 
+    "level": 24.0, 
+    "maxcp": 1401.57, 
+    "mincp": 1178.64
+  }, 
+  {
+    "Stardust": 3500, 
+    "level": 24.5, 
+    "maxcp": 1430.75, 
+    "mincp": 1203.19
+  }, 
+  {
+    "Stardust": 4000, 
+    "level": 25.0, 
+    "maxcp": 1459.98, 
+    "mincp": 1227.77
+  }, 
+  {
+    "Stardust": 4000, 
+    "level": 25.5, 
+    "maxcp": 1489.17, 
+    "mincp": 1252.31
+  }, 
+  {
+    "Stardust": 4000, 
+    "level": 26.0, 
+    "maxcp": 1518.39, 
+    "mincp": 1276.89
+  }, 
+  {
+    "Stardust": 4000, 
+    "level": 26.5, 
+    "maxcp": 1547.58, 
+    "mincp": 1301.43
+  }, 
+  {
+    "Stardust": 4500, 
+    "level": 27.0, 
+    "maxcp": 1576.81, 
+    "mincp": 1326.01
+  }, 
+  {
+    "Stardust": 4500, 
+    "level": 27.5, 
+    "maxcp": 1605.99, 
+    "mincp": 1350.56
+  }, 
+  {
+    "Stardust": 4500, 
+    "level": 28.0, 
+    "maxcp": 1635.22, 
+    "mincp": 1375.13
+  }, 
+  {
+    "Stardust": 4500, 
+    "level": 28.5, 
+    "maxcp": 1664.41, 
+    "mincp": 1399.68
+  }, 
+  {
+    "Stardust": 5000, 
+    "level": 29.0, 
+    "maxcp": 1693.63, 
+    "mincp": 1424.26
+  }, 
+  {
+    "Stardust": 5000, 
+    "level": 29.5, 
+    "maxcp": 1722.82, 
+    "mincp": 1448.8
+  }, 
+  {
+    "Stardust": 5000, 
+    "level": 30.0, 
+    "maxcp": 1752.05, 
+    "mincp": 1473.38
+  }, 
+  {
+    "Stardust": 5000, 
+    "level": 30.5, 
+    "maxcp": 1766.64, 
+    "mincp": 1485.65
+  }, 
+  {
+    "Stardust": 6000, 
+    "level": 31.0, 
+    "maxcp": 1781.23, 
+    "mincp": 1497.92
+  }, 
+  {
+    "Stardust": 6000, 
+    "level": 31.5, 
+    "maxcp": 1795.83, 
+    "mincp": 1510.2
+  }, 
+  {
+    "Stardust": 6000, 
+    "level": 32.0, 
+    "maxcp": 1810.42, 
+    "mincp": 1522.47
+  }, 
+  {
+    "Stardust": 6000, 
+    "level": 32.5, 
+    "maxcp": 1825.01, 
+    "mincp": 1534.74
+  }, 
+  {
+    "Stardust": 7000, 
+    "level": 33.0, 
+    "maxcp": 1839.61, 
+    "mincp": 1547.01
+  }, 
+  {
+    "Stardust": 7000, 
+    "level": 33.5, 
+    "maxcp": 1854.2, 
+    "mincp": 1559.29
+  }, 
+  {
+    "Stardust": 7000, 
+    "level": 34.0, 
+    "maxcp": 1868.8, 
+    "mincp": 1571.56
+  }, 
+  {
+    "Stardust": 7000, 
+    "level": 34.5, 
+    "maxcp": 1883.39, 
+    "mincp": 1583.83
+  }, 
+  {
+    "Stardust": 8000, 
+    "level": 35.0, 
+    "maxcp": 1897.98, 
+    "mincp": 1596.1
+  }, 
+  {
+    "Stardust": 8000, 
+    "level": 35.5, 
+    "maxcp": 1912.58, 
+    "mincp": 1608.38
+  }, 
+  {
+    "Stardust": 8000, 
+    "level": 36.0, 
+    "maxcp": 1927.17, 
+    "mincp": 1620.65
+  }, 
+  {
+    "Stardust": 8000, 
+    "level": 36.5, 
+    "maxcp": 1941.76, 
+    "mincp": 1632.92
+  }, 
+  {
+    "Stardust": 9000, 
+    "level": 37.0, 
+    "maxcp": 1956.36, 
+    "mincp": 1645.19
+  }, 
+  {
+    "Stardust": 9000, 
+    "level": 37.5, 
+    "maxcp": 1970.95, 
+    "mincp": 1657.47
+  }, 
+  {
+    "Stardust": 9000, 
+    "level": 38.0, 
+    "maxcp": 1985.54, 
+    "mincp": 1669.74
+  }, 
+  {
+    "Stardust": 9000, 
+    "level": 38.5, 
+    "maxcp": 2000.14, 
+    "mincp": 1682.01
+  }, 
+  {
+    "Stardust": 10000, 
+    "level": 39.0, 
+    "maxcp": 2014.73, 
+    "mincp": 1694.28
+  }, 
+  {
+    "Stardust": 10000, 
+    "level": 39.5, 
+    "maxcp": 2029.33, 
+    "mincp": 1706.56
+  }, 
+  {
+    "Stardust": 10000, 
+    "level": 40.0, 
+    "maxcp": 2043.92, 
+    "mincp": 1718.83
+  }
+]
