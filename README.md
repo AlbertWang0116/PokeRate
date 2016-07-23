@@ -1,5 +1,7 @@
 Credit to http://pokemongo.gamepress.gg, all data is retrieved from this website.
 
+Python 2.7.1 or above is required.
+
 To calculate rate of pokemon by name:
 
 ```bashscript
